@@ -2,7 +2,7 @@
 In this project, we utilized SQL for data querying and transformation tasks, extracting meaningful insights from the pizza sales dataset.
 These insights were visualized and analyzed using Power BI to create interactive and informative dashboards.
 
-Project Structure:
+BEST SELLER PIZZAS by:
 1.REVENUE :  The Thai Chicken Pizza generate maximum revenue.
 2.QUANTITY: The Classic Deluxe Pizza contribute to maximum Total Quantity .
 3.TOTAL ORDER: The Classic Deluxe Pizza contribute to maximum Total  Orders .
